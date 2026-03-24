@@ -6,8 +6,8 @@ Korrektur
 
 == Feature 1
 
-<insert_feature_here>
-
+- A
+- B
 == Feature 2
 
 <insert_feature_here>
